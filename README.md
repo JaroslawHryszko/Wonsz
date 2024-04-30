@@ -1,4 +1,4 @@
-# Snake Game
+# Wonsz - a snake game
 
 This is a simple snake game implemented in Python using the `curses` library.
 
@@ -20,3 +20,4 @@ This is a simple snake game implemented in Python using the `curses` library.
 3. Navigate to the repository folder.
 4. Run the following command to start the game:
 
+python snake.py
